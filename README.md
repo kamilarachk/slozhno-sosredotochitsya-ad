@@ -6,6 +6,9 @@
 ## Ссылка на GitHub Pages
 https://kamilarachk.github.io/slozhno-sosredotochitsya-ad/
 
+## Ссылка на репозиторий
+https://github.com/kamilarachk/slozhno-sosredotochitsya-ad
+
 ## Описание проекта
 Одностраничный сайт с информацией о:
 - причинах прокрастинации
